@@ -168,7 +168,7 @@ from torchvision import transforms
 
 ## Where can you get help?
 
-All of the materials for this course [are available on GitHub](https://github.com/mrdbourke/pytorch-deep-learning).
+
 
 If you run into trouble, you can ask a question on the course [GitHub Discussions page](https://github.com/mrdbourke/pytorch-deep-learning/discussions).
 
@@ -176,7 +176,6 @@ And of course, there's the [PyTorch documentation](https://pytorch.org/docs/stab
 
 ## 0. Cell mode vs. script mode
 
-A cell mode notebook such as [05. Going Modular Part 1 (cell mode)](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/going_modular/05_pytorch_going_modular_cell_mode.ipynb) is a notebook run normally, each cell in the notebook is either code or markdown.
 
 A script mode notebook such as [05. Going Modular Part 2 (script mode)](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/going_modular/05_pytorch_going_modular_script_mode.ipynb) is very similar to a cell mode notebook, however, many of the code cells may be turned into Python scripts.
 
