@@ -794,7 +794,7 @@ python train.py
 
 Doing this will leverage all of the other code scripts we've created.
 
-And if we wanted to, we could adjust our `train.py` file to use argument flag inputs with Python's `argparse` module, this would allow us to provide different hyperparameter settings like previously discussed:
+And if we wanted to, we could adjust our `train.py` file to use argument flag inputs with Python's `argparse` module, which would allow us to provide different hyperparameter settings like previously discussed:
 
 ```
 python train.py --model MODEL_NAME --batch_size BATCH_SIZE --lr LEARNING_RATE --num_epochs NUM_EPOCHS
