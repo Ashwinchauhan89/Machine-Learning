@@ -101,7 +101,7 @@ The PyTorch blog post for training state-of-the-art computer vision models uses 
 
 The main concept of this section is: **turn useful notebook code cells into reusable Python files.**
 
-Doing this will save us writing the same code over and over again.
+Doing this will save us from writing the same code over and over again.
 
 There are two notebooks for this section:
 
