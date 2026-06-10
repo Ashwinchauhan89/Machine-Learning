@@ -7,7 +7,7 @@ Recurrent Neutreal Network (RNN)
 Seqential Datasets data ==================>>>
 
 
-     sequial data 
+     sequential data 
 
      text data 
 
