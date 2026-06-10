@@ -1,4 +1,4 @@
-Recurrent Neutreal Network (RNN)   
+Recurrent Neural Network (RNN)   
 
 
 =================>
@@ -13,7 +13,7 @@ Seqential Datasets data ==================>>>
 
 
 
-     when we have data ,, we used RNN instead of using CNN and ANN
+     When we have data,, we use RNN instead of using CNN and ANN
 
 
      sentimental Data Analaysis 
