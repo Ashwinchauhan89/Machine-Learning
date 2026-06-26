@@ -702,3 +702,13 @@ Data Science
 
 
 
+<p align="center">
+
+🚀 Learn Deep Learning. Build Intelligent Systems.
+
+TensorFlow • PyTorch • Computer Vision • NLP • Transformers
+
+Made with ❤️ for the Ashwin Chauhan .
+
+</p>
+
