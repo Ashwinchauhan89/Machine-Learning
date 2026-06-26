@@ -667,6 +667,38 @@ Data Science
 └── Business Intelligence
 
 
+                    AI
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+   Rule-Based Systems     Machine Learning
+                                   │
+                          ┌────────┴────────┐
+                          │                 │
+                  Traditional ML      Deep Learning
+                                           │
+                                   CNN • RNN • LSTM
+                                   GAN • Transformer
+
+Data Science
+│
+├── Data Collection
+├── Data Cleaning
+├── Data Analysis
+├── Visualization
+├── Machine Learning
+└── Business Insights
+
+
+
+
+| Career Goal               | Recommended Path                                        |
+| ------------------------- | ------------------------------------------------------- |
+| AI Engineer               | AI → ML → DL → Generative AI                            |
+| Machine Learning Engineer | Python → Math → ML → Scikit-learn → MLOps               |
+| Deep Learning Engineer    | ML → TensorFlow/PyTorch → CNN → RNN → Transformers      |
+| Data Scientist            | Python → SQL → Statistics → Pandas → Visualization → ML |
+| Data Analyst              | Excel → SQL → Python → Pandas → Power BI/Tableau        |
 
 
 
