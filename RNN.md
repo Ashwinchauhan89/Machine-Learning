@@ -4,7 +4,9 @@ Recurrent Neural Network (RNN)
 =================>
 
 
-Sequential Datasets data ==================>>>
+Sequential Datasets data 
+
+==================>>>
 
 
      sequential data 
