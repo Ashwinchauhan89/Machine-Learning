@@ -17,6 +17,9 @@ Sequential Datasets data
 
 
 
+
+
+
      When we have data,, we use RNN instead of using CNN and ANN
 
 
